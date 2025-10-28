@@ -1,0 +1,7 @@
+buat website undangan pernikahan dengan ketentuan seperti berikut:
+- tema undangan yaitu undangan chinese
+- font bebas sesuaikan seperti undangan pada umumya
+- template background identik merah
+- tambahkan waktu untuk memberitahukan kapan hari pernikahan tersebut diselenggarakan
+- buat efek muncul ketika scroll
+- buat jadi fleksibel agar bisa di lihat pada semua perangkat
